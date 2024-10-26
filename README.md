@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+roast me
 
 
 ## Basic Details
@@ -15,7 +15,7 @@
 A website that roasts the user
 
 ### The Problem (that doesn't exist)
-People don't get roasted often
+People don't get roasted often 
 
 ### The Solution (that nobody asked for)
 making a website that roasts everyone
@@ -30,55 +30,45 @@ For Software:
 For Software:A website that randomly sorts and displays roasts as output no matter what input we give
 
 ### Project Documentation
-For Software:
+For Software:# Project Documentation: RoastMe Website
+
+## Overview
+**RoastMe** is an interactive website that generates random roasts for users. When a user clicks a button, a humorous roast is displayed. The project demonstrates basic web development skills using HTML, CSS, and JavaScript.
+
+## Structure
+- **HTML**: Provides webpage structure.
+- **CSS**: Adds styling for a simple, centered design.
+- **JavaScript**: Powers the random roast generation on button click.
+
+## Features
+1. **Random Roasts**: Displays a new roast message each time a button is clicked.
+2. **User Interface**: Clean and minimal, with a focus on the roast message.
+3. **Responsive Design**: Works well on both desktop and mobile devices.
+
+## Technologies
+- HTML5, CSS3, JavaScript (ES6)
+
+## File Structure
+- `index.html`
+- `style.css`
+- `script.js`
+
+## Usage
+1. Open `index.html` in a browser.
+2. Click the "Roast Me" button to display a random roast message.
+
+## Future Enhancements
+- Personalized Roasts: Allow user name input.
+- Dark Mode: Add light/dark theme toggle.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/drive/folders/12uRFg9W3yJmjV_YFZeImIZnfCe28Q3ZC
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/12uRFg9W3yJmjV_YFZeImIZnfCe28Q3ZC
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
