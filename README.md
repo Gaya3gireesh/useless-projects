@@ -4,43 +4,30 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Gayathri M'S TEAM
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Gayathri M
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A website that roasts the user
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People don't get roasted often
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+making a website that roasts everyone
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- html
+- css
+- js
 ### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+For Software:A website that randomly sorts and displays roasts as output no matter what input we give
 
 ### Project Documentation
 For Software:
